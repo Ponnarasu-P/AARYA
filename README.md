@@ -918,7 +918,13 @@ Built with ❤️ for Indian founders and SMEs. Open-sourced under the **MIT Lic
 
 ---
 
-## 📄 20. License
+## 👥 20. Contributors
+
+* **Ponnarasu-P**
+
+---
+
+## 📄 21. License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
